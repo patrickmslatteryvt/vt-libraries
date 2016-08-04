@@ -10,6 +10,7 @@ http://www.arcgis.com/home/webmap/viewer.html?webmap=1a993dcca8ae4f7e9dc8a3d6a42
 Vermont Library Directory - Updated March 4, 2016
 http://libraries.vermont.gov/sites/libraries/files/FindVTLibraries/Library_Directory.pdf
 
+```
 Canaan Library, 27 Park Street, Canaan, VT 05903
   Open: M-Th 12N-5 pm, F 12N-4 pm, Sa 9 am-1pm
   Monday - Thursday Noon to 5 p.m.
@@ -564,3 +565,4 @@ Town of Bradford Library, 21 S Main St, Bradford, VT 05033
   (802) 222-4536
   https://bradfordvtlibrary.org/
   https://www.facebook.com/Bradford-Public-Library-253647528667/
+```
