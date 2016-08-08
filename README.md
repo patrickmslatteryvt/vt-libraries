@@ -565,4 +565,177 @@ Town of Bradford Library, 21 S Main St, Bradford, VT 05033
   (802) 222-4536
   https://bradfordvtlibrary.org/
   https://www.facebook.com/Bradford-Public-Library-253647528667/
+
+Winooski Memorial Library, 32 Malletts Bay Ave, Winooski, VT 05404
+  Sunday: Closed
+  Monday: Closed
+  Tuesday: 10AM to 6:30PM
+  Wednesday: 10AM to 6:30PM
+  Thursday: 10AM to 6:30PM
+  Friday: 10AM to 6:30PM
+  Saturday: 10AM to 2PM
+  (802) 655-6424
+  https://winooskilibrary.wordpress.com/
+
+Bailey-Howe Library UVM, 538 Main St, Burlington, VT 05405
+  Monday - Thursday: 8AM - 8PM
+  Friday: 8AM - 4:30PM
+  Saturday: Closed
+  Sunday: Closed
+  (802) 656-3131
+  http://library.uvm.edu/
+
+Fletcher Free Library, 235 College St, Burlington, VT 05401
+  Monday	10 am - 6 pm
+  Tuesday 	10 am - 8 pm
+  Wednesday 	10 am - 8 pm
+  Thursday 	10 am - 6 pm
+  Friday 	10 am - 6 pm
+  Saturday 	10 am - 6 pm
+  Sunday 	12 noon - 6 pm
+  802-863-3403
+  http://www.fletcherfree.org/
+
+Durick Library, 150 Lyons Ln, Colchester, VT 05439
+  May 23 - Aug 5, 2016
+  Sun - 12:00pm-5:00pm
+  Mon-Thurs - 8:00am-6:00pm
+  Fri - 8:00am-5:00pm
+  Sat - 12:00pm-5:00pm
+  (802) 654-2400
+  http://www.smclibrary.com/site/hours.php
+
+Essex Free Library, 1 Browns River Rd, Essex Junction, VT 05452
+  Mon/Wed/Fri  9AM-5PM
+  Tues/Thurs  9AM-8PM
+  Saturdays  9AM-2PM
+  (802) 879-0313
+  http://www.essex.org/index.asp?Type=B_BASIC&SEC=%7B7184EFBC-C919-43DF-8515-885060313675%7D
+
+Deborah Rawson Memorial Library, 8 River Rd, Jericho, VT 05465
+  Mon: Closed
+  Tue: 12pm-8pm
+  Wed: 10am-6pm
+  Thu: 12pm-8pm
+  Fri: 10am-6pm
+  Sat: 10am-2pm
+  Sun: closed
+  (802) 899-4962
+  http://www.drml.org/
+
+Jericho Town Library, 7 Jericho Center Cir, Jericho Center, VT 05465
+  Monday: 1pm-7pm
+  Tuesday: Closed
+  Wednesday: 10am-Noon & 2pm-7pm
+  Thursday: Closed
+  Friday: 12am-4pm
+  Saturday: Closed
+  Sunday: Closed
+  (802) 899-4686
+  http://www.jerichotownlibraryvt.org/
+
+Richmond Free Library, 201 Bridge St, Richmond, VT 05477
+  MONDAY: 10-8
+  TUESDAY: 1-6
+  WEDNESDAY: 10-8
+  THURSDAY: 1-6
+  FRIDAY: 10-6
+  SATURDAY: 10-2
+  SUNDAY: closed
+  (802) 434-3036
+  https://richmondfreelibraryvt.org/
+
+Dorothy alling memorial library, 21 Library Ln, Williston, VT 05495
+  Monday 10-8
+  Tuesday 10-6
+  Wednesday 10-8
+  Thursday 10-6
+  Friday 10-6
+  Saturday 10-3
+  July-August
+  Saturday 10-1
+  (802) 878-4918
+  http://www.williston.lib.vt.us/
+
+Huntington Public Library, 2156 Main Rd, Huntington, VT 05462
+  Sunday: 12 pm - 5 pm
+  Monday: 10:00 am - 6:00 pm
+  Tuesday: 12:00 pm - 5:00 pm
+  Thursday: 12:00 pm - 5:00 pm
+  Friday: 10:00 am - 6:00 pm
+  (802) 434-4583
+  https://huntingtonlibraryvt.org/
+
+Carpenter-Carse Library, 69 Ballards Corner Rd, Hinesburg, VT 05461
+  Sunday: Closed
+  Monday: 10:00 a.m. - 3:00 p.m.
+  Tuesday: 10:00 a.m. - 7:00 p.m.
+  Wednesday: 2:00 p.m. - 7:00 p.m.
+  Thursday: 10:00 a.m. - 7:00 p.m.
+  Friday: 2:00 p.m. - 7:00 p.m.
+  Saturday: 10:00 a.m. - 3:00 p.m.
+  (802) 482-2878
+  http://www.carpentercarse.org/
+
+Pierson Library, 5376 Shelburne Rd, Shelburne, VT 05482
+  Monday:	10:00 AM - 5:30 PM
+  Tuesday:	10:00 AM - 8:00 PM
+  Wednesday:	10:00 AM - 5:30 PM
+  Thursday:	10:00 AM - 8:00 PM
+  Friday:	10:00 AM - 5:30 PM
+  Saturday:	10:00 AM - 3:00 PM
+  Sunday:	Closed
+  (802) 985-5124
+  http://www.piersonlibrary.org/
+
+Charlotte Library, 115 Ferry Rd, Charlotte, VT 05445
+  M, W: 10 am – 7 pm
+  T, Th, F: 10 am – 5 pm
+  Sat: 9 am – 2 pm
+  Sun: Close
+  (802) 425-3864
+  http://charlottepubliclibrary.org/
+
+Russell Memorial Library, 4333 States Prison Hollow Rd, Monkton, VT 05469
+  Tuesday 3:00 - 7:00
+  Thursday 3:00 - 7:00
+  Friday 9:00 - 1:00
+  Saturday 9:00 - 1:00
+  (802) 453-4471
+  https://russelllibraryvt.wordpress.com/
+
+Starksboro Public Library, 2827 VT-116, Starksboro, VT 05487
+  Monday: 10:00 - 6:00
+  Thursday: 10:00 - 5:00
+  Saturday: 9:00 - 1:00
+  (802) 453-3732
+  https://starksborolibrary.wordpress.com/
+
+Bixby Memorial Library, 258 Main St, Vergennes, VT 05491
+  Mon   12:30 - 7:00
+  Tues  12:30 - 5:00
+  Wed   10:00 - 5:00
+  Thurs 10:00 - 7:00
+  Fri   12:30 - 5:00
+  Sat   9:00 - 2:00
+  (802) 877-2211
+  http://bixbylibrary.org/
+
+New Haven Community Library, 78 North St #2, New Haven, VT 05472
+  Tues. 10-5
+  Wed. 1-8
+  Thurs. 1-8
+  Sat. 10-1
+  (802) 453-4015
+  http://www.nhcl.org/
+
+Lawrence Memorial Library, 40 North St, Bristol, VT 05443
+  Monday 10:00-5:00
+  Tuesday 10:00-8:00
+  Wednesday 1:00-5:00
+  Thursday 10:00-8:00
+  Friday 1:00-5:00
+  Saturday 9:00-1:00
+  (802) 453-2366
+  http://www.lawrencelibrary.net/
 ```
