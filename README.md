@@ -11,6 +11,40 @@ Vermont Library Directory - Updated March 4, 2016
 http://libraries.vermont.gov/sites/libraries/files/FindVTLibraries/Library_Directory.pdf
 
 ```
+Saturday:
+Charlotte Library, 115 Ferry Rd, Charlotte, VT 05445
+  Sat: 9 am – 2 pm
+Bixby Memorial Library, 258 Main St, Vergennes, VT 05491
+  Sat   9:00 - 2:00
+New Haven Community Library, 78 North St #2, New Haven, VT 05472
+  Sat. 10-1
+Lawrence Memorial Library, 40 North St, Bristol, VT 05443
+  Saturday 9:00-1:00
+Starksboro Public Library, 2827 VT-116, Starksboro, VT 05487
+  Saturday: 9:00 - 1:00
+Russell Memorial Library, 4333 States Prison Hollow Rd, Monkton, VT 05469
+  Saturday 9:00 - 1:00
+Carpenter-Carse Library, 69 Ballards Corner Rd, Hinesburg, VT 05461
+  Saturday: 10:00 a.m. - 3:00 p.m.
+Dorothy Alling Memorial Library, 21 Library Ln, Williston, VT 05495
+  Saturday 10-1
+Richmond Free Library, 201 Bridge St, Richmond, VT 05477
+  SATURDAY: 10-2
+Essex Free Library, 1 Browns River Rd, Essex Junction, VT 05452
+  Saturdays  9AM-2PM
+Deborah Rawson Memorial Library, 8 River Rd, Jericho, VT 05465
+  Sat: 10am-2pm
+Durick Library, 150 Lyons Ln, Colchester, VT 05439
+  Sat - 12:00pm-5:00pm
+Winooski Memorial Library, 32 Malletts Bay Ave, Winooski, VT 05404
+  Saturday: 10AM to 2PM
+Fletcher Free Library, 235 College St, Burlington, VT 05401
+  Saturday  10 am - 6 pm
+Pierson Library, 5376 Shelburne Rd, Shelburne, VT 05482
+  Saturday: 10:00 AM - 3:00 PM
+```
+
+```
 Canaan Library, 27 Park Street, Canaan, VT 05903
   Open: M-Th 12N-5 pm, F 12N-4 pm, Sa 9 am-1pm
   Monday - Thursday Noon to 5 p.m.
